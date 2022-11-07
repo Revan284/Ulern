@@ -1,0 +1,8 @@
+D:\1 week\Invalid data type\bin\Debug\Invalid data type.exe.config
+D:\1 week\Invalid data type\bin\Debug\Invalid data type.exe
+D:\1 week\Invalid data type\bin\Debug\Invalid data type.pdb
+D:\1 week\Invalid data type\obj\Debug\Invalid data type.csproj.AssemblyReference.cache
+D:\1 week\Invalid data type\obj\Debug\Invalid data type.csproj.SuggestedBindingRedirects.cache
+D:\1 week\Invalid data type\obj\Debug\Invalid data type.csproj.CoreCompileInputs.cache
+D:\1 week\Invalid data type\obj\Debug\Invalid data type.exe
+D:\1 week\Invalid data type\obj\Debug\Invalid data type.pdb
