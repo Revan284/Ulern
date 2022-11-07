@@ -1,0 +1,8 @@
+D:\1 week\Bitcoin to the masses!\bin\Debug\Bitcoin to the masses!.exe.config
+D:\1 week\Bitcoin to the masses!\bin\Debug\Bitcoin to the masses!.exe
+D:\1 week\Bitcoin to the masses!\bin\Debug\Bitcoin to the masses!.pdb
+D:\1 week\Bitcoin to the masses!\obj\Debug\Bitcoin to the masses!.csproj.AssemblyReference.cache
+D:\1 week\Bitcoin to the masses!\obj\Debug\Bitcoin to the masses!.csproj.SuggestedBindingRedirects.cache
+D:\1 week\Bitcoin to the masses!\obj\Debug\Bitcoin to the masses!.csproj.CoreCompileInputs.cache
+D:\1 week\Bitcoin to the masses!\obj\Debug\Bitcoin to the masses!.exe
+D:\1 week\Bitcoin to the masses!\obj\Debug\Bitcoin to the masses!.pdb
